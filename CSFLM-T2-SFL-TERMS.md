@@ -2,38 +2,40 @@
 
 Tier 2. Systemic functional terms.
 
-## What a cell is
+## Principle
 
-A cell is the way one register variable (a dimension of the situation) shapes the meaning made in one metafunction (a strand of the grammar). Row = metafunction, column = register variable.
+A cell = one sub-variable of a register variable (column), as it shows up in the grammatical systems of one metafunction (row). Halliday holds that all meaning is simultaneously ideational, interpersonal and textual, so every register variable bears on all three rows. Hasan describes the field-ideational, tenor-interpersonal, mode-textual correspondence as a typical correlation (resonance), not an exclusive pairing.
 
-Register variables: field (what is going on: activity, subject matter, institutional purpose), tenor (who is taking part: status, solidarity, contact, affect), mode (what language is doing: channel, spoken or written, constitutive or ancillary role).
+## Sub-variables (Halliday & Matthiessen, Field, Tenor, Mode, p. 33)
 
-Metafunctions: ideational (representing experience), interpersonal (enacting relationships), textual (organising the message as text).
+Field: (i) the nature of the social and semiotic activity; (ii) the domain of experience the activity relates to (subject matter, topic).
 
-Status key: SOURCED = typical correlation stated in the literature. PROPOSED = reading built on the diagonal, no source yet, open to D001.
+Tenor: (i) roles of the participants: institutional; status (power, equal or unequal); contact (familiarity, strangers to intimates); sociometric (affect, neutral or charged); (ii) the values the participants imbue the domain with (neutral or loaded, positive or negative).
+
+Mode: (i) the division of labour between semiotic activities and social ones (semiotic activity constitutive of the situation, or facilitating); (ii) the division of labour between linguistic and other semiotic activity.
+
+Grammatical systems per row: ideational = transitivity (process, participants, circumstances); interpersonal = mood, modality, attitude; textual = Theme and Rheme, information, cohesion.
 
 ## The nine cells
 
-| # | Metafunction x register variable | Status | What the cell holds |
+Grounding: DIRECT = the source itself states the link; DERIVED = follows from the source's own definition of the variable, to be tested against annotated texts.
+
+| # | Cell | Sub-variable realised in this system | Grounding |
 |---|---|---|---|
-| 1 | ideational x field | SOURCED, diagonal | The experience represented: processes, participants, circumstances, as set by the activity and subject matter. |
-| 2 | ideational x tenor | PROPOSED | How the relationship between speakers limits or selects what experience can be represented: what is sayable, how technical, how euphemistic, between these people. |
-| 3 | ideational x mode | PROPOSED | How the channel packages experience: spoken language tends to chain events clause by clause; written language tends to compress them into dense nominal groups (Halliday 1985 on lexical density and grammatical intricacy; verify before citing). |
-| 4 | interpersonal x field | PROPOSED | How the activity fixes the roles and stance on offer: commands in instruction, questions in interview, obligation in regulation. |
-| 5 | interpersonal x tenor | SOURCED, diagonal | The relationship enacted: speech function, mood, modality, attitude, expressed as status, solidarity, contact. |
-| 6 | interpersonal x mode | PROPOSED | How the channel shapes the interaction: immediacy, turn-taking and feedback in speech; delayed, one-sided exchange in writing; voice and prosody versus punctuation and layout. |
-| 7 | textual x field | PROPOSED | How the activity shapes the organisation of the message: the staging of a genre (steps of a procedure, classification of a report) and what is Theme. |
-| 8 | textual x tenor | PROPOSED | How the relationship shapes the organisation: directness or indirectness, interpersonal Theme, who controls the topic. |
-| 9 | textual x mode | SOURCED, diagonal | The message organised as text in its medium: Theme and Rheme, information structure, cohesion. |
+| 1 | ideational x field | domain of experience (field ii) in transitivity: processes, participants, circumstances | DIRECT, diagonal |
+| 2 | ideational x tenor | values the participants imbue the domain with (tenor ii), shown in how experience is represented: neutral or loaded | DIRECT: tenor (ii) is defined as values attached to the field's domain |
+| 3 | ideational x mode | division of labour between language and other semiotic activity (mode ii): how much of the experience is put into words and how much left to the situation | DERIVED |
+| 4 | interpersonal x field | nature of the activity (field i): which speech functions and roles the activity makes available | DERIVED |
+| 5 | interpersonal x tenor | status, contact, affect (tenor i) in mood, modality, attitude | DIRECT, diagonal |
+| 6 | interpersonal x mode | constitutive or facilitating semiotic activity (mode i): whether the exchange is the activity or accompanies it | DERIVED |
+| 7 | textual x field | nature of the activity (field i) in the staging and Theme choices of the text | DERIVED |
+| 8 | textual x tenor | status, contact, affect (tenor i) in how the message is organised: who sets the topic, directness | DERIVED |
+| 9 | textual x mode | mode (i, ii) in Theme and Rheme, information, cohesion | DIRECT, diagonal |
 
-## Sources
+## Testing
 
-Hasan, R. (2014). Towards a paradigmatic description of context: systems, metafunctions, and semantics. Functional Linguistics 1(9). Field, tenor and mode are realisationally oriented to the ideational, interpersonal and textual meaning-wording respectively; a typical correlation, not an exclusive pairing.
-
-Halliday, M.A.K. All meaning is at once concerned with experience, relationships and structure.
-
-Off-diagonal sources are requested in decisions/CSFLM-D001-CELL-MEANING.md.
+DERIVED cells are stated hypotheses, each tested by annotating real texts for the sub-variable and the grammatical system, then checking whether the cell separates texts that differ on that sub-variable. A cell that does not is revised on that evidence.
 
 ## Not yet decided
 
-What a cell's number measures, and the poles at -1 and +1 for each cell. Proposed diagonal poles for discussion: cell 1 everyday to specialised; cell 5 close and equal to distant and unequal; cell 9 spoken and ancillary to written and constitutive. Off-diagonal poles are unresolved.
+What a cell's number measures and its poles at -1 and +1. Diagonal proposals: cell 1 everyday to specialised; cell 5 close and equal to distant and unequal; cell 9 spoken and ancillary to written and constitutive.
